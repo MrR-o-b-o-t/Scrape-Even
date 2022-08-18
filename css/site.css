@@ -66,6 +66,14 @@ main > .container {
     color: var(--primary-color);
   }
 
+  .even{
+    font-weight: Bold;
+  }
+
+  .odd{
+    font-weight: 100;
+  }
+
   code[class*="language-"],
 pre[class*="language-"] {
 white-space: pre-wrap;
